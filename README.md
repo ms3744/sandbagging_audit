@@ -1,5 +1,5 @@
 # Sandbagging Audit
-For my BlueDot Technical AI Project Sprint, I conducted a preliminary investigation to audit the sandbagging evaluation methodology. The results indicate that non-target behaviours can explain “sandbagging”-based misalignment. This repo contains an audit of the sandbagging eval methodology using the AMR checklist to surface dimensions to stress-test methodological decisions
+For my BlueDot Technical AI Project Sprint, I conducted a preliminary investigation to audit the sandbagging evaluation methodology. The results indicate that non-target behaviours can explain “sandbagging”-based misalignment. This repo contains an audit of the sandbagging eval methodology using the AMR checklist to surface dimensions to stress-test methodological decisions. For code for experiments, please refer to: https://github.com/ms3744/sandbagging_extension
 
 # Method
 In lieu of peer-based feedback, I consolidated audits from three sources: my own judgments, ChatGPT (GPT 5.6 Luna), and Claude (Sonnet 5 medium). I ran the audit myself before passing through the LLMs to avoid bias in my responses. For the LLMs, I used the free-tier chat interface. Finally, I consolidated the three responses into a single pass. 
